@@ -10,6 +10,6 @@
 #include <stdio.h>
 #include <tchar.h>
 
-
-
+#include"test1.h"
+#include"test2.h"
 // TODO:  在此处引用程序需要的其他头文件
